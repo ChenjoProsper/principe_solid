@@ -57,3 +57,55 @@ java srp/erroner/Main.java
 javac srp/solution/Main.java
 java srp/solution/Main.java
 ```
+
+### -> lsp
+
+- Erroner
+
+```bash
+javac lsp//erroner//Main.java
+java lsp//erroner//Main.java
+```
+
+- Solution
+
+```bash
+javac lsp/solution/Main.java
+java lsp/solution/Main.java
+```
+
+#### -> isp
+
+- Erroner
+
+```bash
+javac isp/erroner/Main.java
+java isp/erroner/Main.java
+```
+
+- s0lution
+
+```bash
+javac isp/solution/Main.java
+java isp/solution/Main.java
+```
+
+### -> dip
+
+- Erroner
+
+```bash
+
+javac dip/erroner/Main.java
+java dip/erroner/Main.java
+
+```
+
+- solution
+
+``` bash
+
+javac dip/solution/Main.java
+java dip/solution/Main.java
+
+```
